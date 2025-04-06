@@ -17,7 +17,7 @@ This is a Streamlit-based AI tool that helps you brainstorm startup ideas based 
 ## 🛠️ Tech Stack
 
 - Python + Streamlit for the web interface
-- GPT-4 via LangChain for all LLM-based features
+- GPT-4/Groq via LangChain for all LLM-based features
 - FAISS (Facebook AI Similarity Search) for semantic search
 - DuckDuckGo API for real-time market research
 - FPDF for PDF export
@@ -33,6 +33,7 @@ Make sure to set your OpenAI API Key using a `.env` file:
 
 ```bash
 OPENAI_API_KEY=your_openai_key_here
+GROQ_API_KEY=your_groq_key_here
 ```
 
 ## 📂 File Structure
