@@ -1,7 +1,8 @@
 
-# 🚀 Startup Idea Generator with GPT-4 + LangChain + Vector DB
+# 🚀 Startup Idea Generator with GPT-4/Groq + LangChain + Vector DB 
 
-This is a Streamlit-based AI tool that helps you brainstorm startup ideas based on your interests or skills using GPT-4. It also includes market analysis, MVP planning, landing page content, SWOT, competitor research, and user persona generation.
+This is a Streamlit-based AI tool that helps you brainstorm startup ideas based on your interests or skills using GPT-4/Groq. It also includes market analysis, MVP planning, landing page content, SWOT, competitor research, and user persona generation.
+
 
 ## ✨ Features
 
